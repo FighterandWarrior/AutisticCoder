@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FighterandWarrior and I'm autistic with alot of hobbies.
+- 👋 Hi, I’m @AutisticCoder and as the name says I'm autistic and one with alot of hobbies.
 - 👀 I’m interested in mechanical keyboards, programming, movies, tvshow, writing, coding,
 - 🌱 I’m currently learning Docker, python, cyber security, web devolopment, 
 
