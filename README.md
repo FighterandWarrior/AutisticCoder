@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FighterandWarrior
-- 👀 I’m interested in movies, music, tvshows, writing, reading, mechanical keyboards, programming, hacking, 
-- 🌱 I’m currently learning Swift, Docker, python, cyber security. 
+- 👋 Hi, I’m @FighterandWarrior and I'm autistic with alot of hobbies.
+- 👀 I’m interested in mechanical keyboards, programming, movies, tvshow, writing, coding,
+- 🌱 I’m currently learning Docker, python, cyber security, web devolopment, 
 
 
 
